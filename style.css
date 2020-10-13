@@ -3,5 +3,9 @@
 .motto{
     text-align: center;
     font-family: 'Bebas Neue', cursive;
-    font-size: 60px;
+    font-size: 80px;
+}
+
+.divsection_one{
+    background-image: url(https://verrunt.com/wp-content/uploads/2017/04/1127858435-background-images-for-websites-24.jpg);
 }
