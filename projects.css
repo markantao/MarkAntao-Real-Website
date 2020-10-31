@@ -56,3 +56,9 @@ button{
 button:hover{
     background-color: rgba(0, 136, 169, 0.8);
 }
+
+.projects_motto{
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    text-align: center;
+}
